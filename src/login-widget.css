@@ -1,0 +1,20 @@
+
+.mdl-dialog.login-dialog {
+	width:40%;
+	overflow: hidden;
+	transition: all 1s ease;
+}
+
+.login-tab .mdl-tabs__tab-bar a {
+	width: 50%;
+}
+.login__dialog .mdl-textfield {
+	display: block;
+	width: 100%;
+}
+.login-reg__tab {
+	margin-bottom: 20px;
+}
+.login__dialog + .mdl-button {
+	width: 100%;
+}

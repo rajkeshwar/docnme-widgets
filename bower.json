@@ -1,0 +1,24 @@
+{
+  "name": "docnme-widgets",
+  "description": "Configuration file for docnme-widgets",
+  "main": "gulpfile.js",
+  "authors": [
+    "Rajkeshwar Prasad"
+  ],
+  "license": "ISC",
+  "keywords": [
+    "docnme-widgets"
+  ],
+  "homepage": "",
+  "private": true,
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "material-design-lite": "^1.1.3"
+  }
+}

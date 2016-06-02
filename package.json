@@ -1,0 +1,35 @@
+{
+  "name": "docnme-widgets",
+  "version": "1.0.0",
+  "description": "Configuration file for docnme-widgets",
+  "main": "gulpfile.js",
+  "dependencies": {
+    "gulp": "^3.9.1",
+    "browser-sync": "^2.12.10",
+    "cssmin": "^0.4.3",
+    "gulp-cssmin": "^0.1.7",
+    "gulp-concat": "^2.6.0",
+    "gulp-html2string": "^0.1.1",
+    "gulp-rename": "^1.2.2",
+    "gulp-uglify": "^1.5.3",
+    "path": "^0.12.7",
+    "rename": "^1.0.3"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/rajkeshwar/docnme-widgets.git"
+  },
+  "keywords": [
+    "docnme-widgets"
+  ],
+  "author": "Rajkeshwar Prasad",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/rajkeshwar/docnme-widgets/issues"
+  },
+  "homepage": "https://github.com/rajkeshwar/docnme-widgets#readme"
+}
